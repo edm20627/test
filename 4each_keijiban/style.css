@@ -1,0 +1,147 @@
+body{font-family:"Hiragino Kaku Gothic Pron","メイリオ",sans-serif;
+}
+
+header ul{
+    float:right;
+    line-height:40px;
+    width:100%;
+    height:40px;
+    background-color:black;    
+}
+header ul li{
+    float:left;
+    list-style:none;
+    padding-right:20px;
+    color:white;
+    font-size:10px;
+    line-height:40px;
+    padding-right:30px;
+    padding-left:30px;
+}
+
+main{
+    clear:both;
+}
+
+.main-container{
+    width:95%;
+    margin:0 auto;
+    margin-top:70px;
+}
+
+.left{
+    float:left;
+    width:70%;
+    margin-bottom:40px;
+}
+
+main .left h1{
+    font-size:20px;
+    border-left:5px solid black;
+    border-bottom:2px solid black;
+    padding-left:5px;
+}
+
+
+
+.abc{margin:0 auto;
+   margin-top:30px;
+   margin-bottom:20px;
+   border-left:4px red solid;
+   background-color:#f1f1f1;
+   padding-top:5px;
+   padding-bottom:5px;
+   padding-left:15px;
+   width:500px;
+   font-size:20px;    
+}
+
+form{margin:0 auto;
+     background-color:#fbfbfb;
+     border:3px #ebebeb solid;
+     border-radius:10px;
+     width:500px;
+}
+
+form div{
+    padding:15px;
+}
+
+.text,textarea{
+    border:1px solid #dfdfdf;
+    padding:5px;
+    color:#999;
+    background:#fff;   
+}
+
+.submit{
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color:#bfbfbf;
+    border-radius:5px;
+    border-bottom:solid 2px gray;    
+}
+
+
+
+
+
+
+
+.kiji{margin:0 auto;
+     background-color:#fbfbfb;
+     border:3px #ebebeb solid;
+     border-radius:10px;
+     padding-left:15px;
+     padding-right:15px;
+     width:470px;
+}
+
+h3{border-bottom:3px #ebebeb solid;
+}
+
+.handlename{font-size: 11px;
+            padding-top:10px;
+            padding-bottom:10px;
+}
+
+
+
+
+
+
+
+
+
+.right{
+    float:left;
+    width:20%;
+    margin-bottom:40px;
+    margin-left:20px;
+}
+
+.right h1{
+    font-size:18px;
+    border-bottom:2px dotted;
+}
+
+.right p{
+    margin-top:5px;
+    margin-bottom:10px;
+}
+
+footer{
+    clear:left;
+    width:100%;
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+
+
+
+
+
+
+
