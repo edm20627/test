@@ -1,9 +1,0 @@
-package com.internousdev.webproj2.action;
-
-import com.opensymphony.xworks2.ActonSupport;
-
-public class WelcomeAction extend ActionSupport{
-	public String excute(){
-		return SUCCESS;
-	}
-}
