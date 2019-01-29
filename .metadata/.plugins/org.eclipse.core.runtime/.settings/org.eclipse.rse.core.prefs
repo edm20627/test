@@ -1,4 +1,4 @@
-activeuserprofiles=MyComputer;Team
+activeuserprofiles=Team;keita-MacBook-Pro;takahashikeitanoMacBook-Pro
 eclipse.preferences.version=1
-org.eclipse.rse.systemtype.local.systemType.defaultUserId=internousdev
-useridperkey=MyComputer.\u30ED\u30FC\u30AB\u30EB\=internousdev;
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=takahashikeita
+useridperkey=takahashikeitanoMacBook-Pro.\u30ED\u30FC\u30AB\u30EB\=takahashikeita;
